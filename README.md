@@ -5,7 +5,7 @@
 - JavaScript, TypeScript
 - CSS, SASS/SCSS
 - ReactJS, Redux Toolkit, React Router
-- Jest
+- Jest, React Testing Library
 - Webpack
 - BEM methodology
 
