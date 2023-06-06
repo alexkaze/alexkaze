@@ -13,7 +13,7 @@ Technologies with which I have experience: PUG, Vite, Gulp.
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexkaze&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexkaze&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
